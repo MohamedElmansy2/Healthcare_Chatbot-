@@ -82,7 +82,7 @@ User Input (Symptoms)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/medical-chatbot.git
+git clone https://github.com/MohamedElmansy2/Healthcare_Chatbot-.git
 cd medical-chatbot
 ```
 
