@@ -44,11 +44,11 @@ The dataset consists of structured intents mapping patient symptom descriptions 
 
 **Most Common Symptoms (Word Cloud)**
 
-![Most Common Symptoms](most_common.png)
+![Most Common Symptoms](most common.png)
 
 **Least Common Symptoms (Word Cloud)**
 
-![Least Common Symptoms](least_common.png)
+![Least Common Symptoms](least common.png)
 
 ---
 
